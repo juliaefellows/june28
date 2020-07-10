@@ -1,4 +1,10 @@
+html{
+    background-color: #D2B48C;
+}
+
 h1 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
   text-align: center;
   font-size: 1em;
   color: #009;
