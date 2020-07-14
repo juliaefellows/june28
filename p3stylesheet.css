@@ -56,7 +56,9 @@ body {
 }
 
 mark {
-background-color: rgb(222, 184, 135);}
+	background-color: rgb(222, 184, 135);
+	color: burlywood;
+}
 
 input::-moz-focus-inner {
 	border: 0;
