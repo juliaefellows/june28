@@ -83,12 +83,12 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: rgb(222, 184, 135);
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: rgb(222, 184, 135);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
