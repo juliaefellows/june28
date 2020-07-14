@@ -1,6 +1,8 @@
 ﻿@import url('../../../Downloads/html5up-read-only%20(1)/assets/css/fontawesome-all.min.css');
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
 
+@import url('https://juliaefellows.github.io/june28/practicesite3-3260.css');
+
 /*
 	Read Only by HTML5 UP
 	html5up.net | @ajlkn
@@ -59,6 +61,7 @@ mark {
 	background-color: #999966;
 	color: #000000;
 	font-family: "Palatino Linotype";
+	outline-color: #999966;
 }
 
 input::-moz-focus-inner {
