@@ -1,15 +1,4 @@
-﻿@import url('../../../Downloads/html5up-read-only%20(1)/assets/css/fontawesome-all.min.css');
-@import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
-
-@import url('https://juliaefellows.github.io/june28/practicesite3-3260.css');
-
-/*
-	Read Only by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
-html, body, div, span, applet, object,
+﻿html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
@@ -58,7 +47,7 @@ body {
 }
 
 mark {
-	background-color: #999966;
+	background-color: #00FF00;
 	color: #000000;
 	font-family: "Palatino Linotype";
 	outline-color: #999966;
