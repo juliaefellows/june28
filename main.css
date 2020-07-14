@@ -56,9 +56,8 @@ body {
 }
 
 mark {
-	background-color: #999966;
-	color: #000000;
-	font-family: "Palatino Linotype";
+	background-color: transparent;
+	color: inherit;
 }
 
 input::-moz-focus-inner {
@@ -3244,11 +3243,5 @@ input, select, textarea {
 	background-color: #999966;
 }
 .newStyle2 {
-	background-color: #999966;
-}
-.newStyle3 {
-	background-color: #999966;
-}
-.newStyle4 {
 	background-color: #999966;
 }
